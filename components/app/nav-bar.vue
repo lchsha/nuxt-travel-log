@@ -11,6 +11,7 @@
         </NuxtLink>
       </div>
       <div class="navbar-end">
+        <AppThemeToggle />
         <a class="btn btn-accent">
           Sign in
           <Icon name="tabler:brand-github" style="color: black" />
