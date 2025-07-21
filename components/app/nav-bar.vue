@@ -17,7 +17,7 @@
           <Icon name="tabler:brand-github" style="color: black" />
         </a>
       </div>
-    </div>
+    </div> 
   </div>
 </template>
 
