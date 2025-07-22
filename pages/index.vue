@@ -14,10 +14,7 @@
             Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
             quasi. In deleniti eaque aut repudiandae et a id nisi.
           </p>
-          <button class="btn btn-accent">
-            Sign in
-            <Icon name="tabler:brand-github" style="color: black" />
-          </button>
+          <AuthButton />
         </div>
       </div>
     </div>
